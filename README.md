@@ -10,7 +10,7 @@
 A **fully responsive** static landing page for an online education platform.  
 Built with pure HTML, CSS & JavaScript — no frameworks, no build tools.
 
-[🌐 Live Demo]([#] https://online-education-wepsite.vercel.app/) • [📁 Browse Files](#) • [🐛 Report Bug](#)
+[🌐 Live Demo](https://online-education-wepsite.vercel.app/) • [📁 Browse Files](#) • [🐛 Report Bug](#)
 
 </div>
 
@@ -18,7 +18,7 @@ Built with pure HTML, CSS & JavaScript — no frameworks, no build tools.
 
 ## 📸 Preview
 
-> *(Add a screenshot here — drag & drop an image into this file on GitHub)*
+<img width="1920" height="4508" alt="EduSpark Preview" src="https://github.com/user-attachments/assets/a0b35a12-c556-4108-b121-b350c7c65a31" />
 
 ---
 
