@@ -10,7 +10,7 @@
 A **fully responsive** static landing page for an online education platform.  
 Built with pure HTML, CSS & JavaScript — no frameworks, no build tools.
 
-[🌐 Live Demo](#) • [📁 Browse Files](#) • [🐛 Report Bug](#)
+[🌐 Live Demo]([#] https://online-education-wepsite.vercel.app/) • [📁 Browse Files](#) • [🐛 Report Bug](#)
 
 </div>
 
